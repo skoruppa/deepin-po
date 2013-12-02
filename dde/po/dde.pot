@@ -3,148 +3,148 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-29 12:18+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2013-12-02 18:58+0100\n"
+"Last-Translator: Patryk Skorupa <skoruppa@gmail.com>\n"
+"Language-Team:  <skoruppa@gmail.com>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: pl\n"
 
 #: ../resources/greeter/js/greeter.coffee:57
 msgid "guest"
-msgstr ""
+msgstr "Gość"
 
 #: ../resources/greeter/js/session.coffee:25
 msgid "Session"
-msgstr ""
+msgstr "Sesja"
 
 #: ../resources/greeter/js/session.coffee:134
 msgid "suspend"
-msgstr ""
+msgstr "wstrzymaj"
 
 #: ../resources/greeter/js/session.coffee:136
 msgid "hibernate"
-msgstr ""
+msgstr "hibernuj"
 
 #: ../resources/greeter/js/session.coffee:138
 msgid "shutdown"
-msgstr ""
+msgstr "wyłącz"
 
 #: ../resources/greeter/js/session.coffee:140
 msgid "restart"
-msgstr ""
+msgstr "restartuj"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Jan"
-msgstr ""
+msgstr "Sty"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Feb"
-msgstr ""
+msgstr "Lut"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Mar"
-msgstr ""
+msgstr "Marz"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Apr"
-msgstr ""
+msgstr "Kwi"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "May"
-msgstr ""
+msgstr "Maj"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Jun"
-msgstr ""
+msgstr "Czer"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Jul"
-msgstr ""
+msgstr "Lip"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Aug"
-msgstr ""
+msgstr "Lut"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Sep"
-msgstr ""
+msgstr "Sie"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Oct"
-msgstr ""
+msgstr "Paź"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Nov"
-msgstr ""
+msgstr "Lis"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Dec"
-msgstr ""
+msgstr "Gru"
 
 #: ../resources/greeter/js/time.coffee:39
 msgid "Sun"
-msgstr ""
+msgstr "Nie"
 
 #: ../resources/greeter/js/time.coffee:39
 msgid "Mon"
-msgstr ""
+msgstr "Pon"
 
 #: ../resources/greeter/js/time.coffee:39
 msgid "Tue"
-msgstr ""
+msgstr "Wto"
 
 #: ../resources/greeter/js/time.coffee:39
 msgid "Wed"
-msgstr ""
+msgstr "Śro"
 
 #: ../resources/greeter/js/time.coffee:39
 msgid "Thu"
-msgstr ""
+msgstr "Czw"
 
 #: ../resources/greeter/js/time.coffee:39
 msgid "Fri"
-msgstr ""
+msgstr "Pią"
 
 #: ../resources/greeter/js/time.coffee:39
 msgid "Sat"
-msgstr ""
+msgstr "Sob"
 
 #: ../resources/greeter/js/user.coffee:80
 msgid "Log In"
-msgstr ""
+msgstr "Zaloguj"
 
 #: ../resources/greeter/js/user.coffee:82
 msgid "Unlock"
-msgstr ""
+msgstr "Odblokuj"
 
 #: ../resources/greeter/js/user.coffee:115
 msgid "Welcome"
-msgstr ""
+msgstr "Witaj"
 
 #: ../resources/greeter/js/user.coffee:121
 msgid "Switch User"
-msgstr ""
+msgstr "Przełącz Użytkownika"
 
 #: ../resources/desktop/js/application.coffee:177
 #: ../resources/desktop/js/richdir.coffee:351
 #: ../resources/desktop/js/richdir.coffee:476
 msgid "The link has expired. Do you want to delete it?"
-msgstr ""
+msgstr "Link wygasł. Czy chciałbyś go usunąć?"
 
 #: ../resources/desktop/js/application.coffee:177
 #: ../resources/desktop/js/desktopentry.coffee:150
 #: ../resources/desktop/js/richdir.coffee:351
 #: ../resources/desktop/js/richdir.coffee:476
 msgid "Warning"
-msgstr ""
+msgstr "Ostrzeżenie"
 
 #: ../resources/desktop/js/desktopentry.coffee:101
 #: ../resources/desktop/js/richdir.coffee:130
@@ -155,7 +155,7 @@ msgstr ""
 #: ../resources/desktop/js/specialitem.coffee:285
 #: ../resources/launcher/js/grid.coffee:87
 msgid "_Open"
-msgstr ""
+msgstr "_Otwórz"
 
 #: ../resources/desktop/js/desktopentry.coffee:103
 #: ../resources/desktop/js/richdir.coffee:460
@@ -203,11 +203,11 @@ msgstr ""
 
 #: ../resources/desktop/js/desktopentry.coffee:150
 msgid "Can not open this file."
-msgstr ""
+msgstr "Nie mogę otworzyć pliku."
 
 #: ../resources/desktop/js/grid.coffee:70 ../lib/dentry/fileops.c:402
 msgid "Untitled"
-msgstr ""
+msgstr "Bez nazwy"
 
 #: ../resources/desktop/js/grid.coffee:993
 msgid "_Folder"
@@ -231,11 +231,11 @@ msgstr ""
 
 #: ../resources/desktop/js/grid.coffee:1008
 msgid "_New"
-msgstr ""
+msgstr "_Nowy"
 
 #: ../resources/desktop/js/grid.coffee:1010
 msgid "Open in _terminal"
-msgstr ""
+msgstr "Otwórz w _terminalu"
 
 #: ../resources/desktop/js/grid.coffee:1011
 msgid "_Paste"
@@ -263,11 +263,11 @@ msgstr ""
 
 #: ../resources/desktop/js/specialitem.coffee:83
 msgid "Home"
-msgstr ""
+msgstr "Katalog domowy"
 
 #: ../resources/desktop/js/specialitem.coffee:173
 msgid "Trash"
-msgstr ""
+msgstr "Kosz"
 
 #: ../resources/desktop/js/specialitem.coffee:236
 msgid "_Clean up %1 items"
@@ -283,7 +283,7 @@ msgstr ""
 
 #: ../resources/desktop/js/specialitem.coffee:269
 msgid "Software Center"
-msgstr ""
+msgstr "Centrum Aplikacji"
 
 #: ../resources/dock/js/clientgroup.coffee:36
 msgid "_New Window"
@@ -307,7 +307,7 @@ msgstr ""
 
 #: ../resources/dock/js/deepin_item.coffee:69
 msgid "Show/Hide Desktop"
-msgstr ""
+msgstr "Pokaż/Ukryj Pulpit"
 
 #: ../resources/dock/js/item.coffee:267
 msgid "The item is invalid. Do you want to remove it from the dock panel?"
@@ -372,63 +372,64 @@ msgstr ""
 
 #: ../resources/shutdown/js/confirmdialog.coffee:57
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 #: ../resources/shutdown/js/utils.coffee:26
 msgid "Lock"
-msgstr ""
+msgstr "Zablokuj"
 
 #: ../resources/shutdown/js/utils.coffee:26
 msgid "Suspend"
-msgstr ""
+msgstr "Wstrzymaj"
 
 #: ../resources/shutdown/js/utils.coffee:26
 msgid "Log out"
-msgstr ""
+msgstr "Wyloguj"
 
 #: ../resources/shutdown/js/utils.coffee:26
 msgid "Restart"
-msgstr ""
+msgstr "Uruchom ponownie"
 
 #: ../resources/shutdown/js/utils.coffee:26
 msgid "Shut down"
-msgstr ""
+msgstr "Wyłącz"
 
 #: ../resources/shutdown/js/utils.coffee:28
 msgid "The system will be locked in:"
-msgstr ""
+msgstr "Sostem zostanie zablokowany za:"
 
 #: ../resources/shutdown/js/utils.coffee:29
 msgid "The system will be suspended in:"
-msgstr ""
+msgstr "System zostanie wstrzymany za:"
 
 #: ../resources/shutdown/js/utils.coffee:30
 msgid "You will be automatically logged out in:"
-msgstr ""
+msgstr "Zostaniesz automatycznie wylogowany za:"
 
 #: ../resources/shutdown/js/utils.coffee:31
 msgid "The system will restart in:"
-msgstr ""
+msgstr "System zostanie uruchomiony ponownie za:"
 
 #: ../resources/shutdown/js/utils.coffee:32
 msgid "The system will shut down in:"
-msgstr ""
+msgstr "System zostanie wyłączony za:"
 
 #: ../app/desktop/desktop.c:213
 msgid "New file"
-msgstr ""
+msgstr "Nowy plik"
 
 #: ../app/desktop/desktop.c:224
 msgid "New directory"
-msgstr ""
+msgstr "Nowy katalog"
 
 #: ../app/greeter/camera.c:47
 msgid "Oops...I can't recognize your face. "
-msgstr ""
+msgstr "Ups...Nie potrafię rozpoznać twojej twarzy."
 
 #: ../app/greeter/camera.c:177
 msgid "Please login with your password or click your picture to retry."
 msgstr ""
+"Proszę zalogowować się za pomocą hasła lub wybrać swój obraz aby ponowić."
 
 #: ../app/greeter/camera.c:234
 #, c-format
@@ -437,7 +438,7 @@ msgstr ""
 
 #: ../app/greeter/dlock.c:113 ../app/greeter/greeter.c:148
 msgid "Invalid Password"
-msgstr ""
+msgstr "Nieprawidłowe Hasło"
 
 #: ../app/greeter/mutils.c:83
 msgid "%a, %b %d, %Y"
@@ -470,43 +471,43 @@ msgstr ""
 
 #: ../lib/dentry/entry.c:754
 msgid "The Item could not be renamed"
-msgstr ""
+msgstr "Nie można zmienić nazwy"
 
 #: ../lib/dentry/entry.c:828 ../lib/dentry/fileops.c:804
 msgid "copy"
-msgstr ""
+msgstr "kopiuj"
 
 #: ../lib/dentry/entry.c:1410
 msgid "App Group"
-msgstr ""
+msgstr "Dodaj Grupe"
 
 #: ../lib/dentry/fileops.c:565
 msgid "move"
-msgstr ""
+msgstr "przenieś"
 
 #: ../lib/dentry/fileops.c:771
 msgid "Copy"
-msgstr ""
+msgstr "Kopiuj"
 
 #: ../lib/dentry/fileops_delete.c:27
 msgid "Delete File"
-msgstr ""
+msgstr "Usuń Plik"
 
 #: ../lib/dentry/fileops_delete.c:30
 msgid "Are you sure you want to permanently delete the files?"
-msgstr ""
+msgstr "Czy jesteś pewny że chcesz permnętnie usunąć te pliki?"
 
 #: ../lib/dentry/fileops_delete.c:31
 msgid "If you delete an item, it will be permanently lost"
-msgstr ""
+msgstr "Rzeczy po usunięciu zostanę permanętnie stracone"
 
 #: ../lib/dentry/fileops_delete.c:34
 msgid "Delete"
-msgstr ""
+msgstr "Usuń"
 
 #: ../lib/dentry/fileops_error_dialog.c:62
 msgid "File conflict"
-msgstr ""
+msgstr "Konflikt Pliku"
 
 #: ../lib/dentry/fileops_error_dialog.c:106
 msgid "_Select a new name for the destination"
@@ -514,11 +515,11 @@ msgstr ""
 
 #: ../lib/dentry/fileops_error_dialog.c:117
 msgid "Reset"
-msgstr ""
+msgstr "Resetuj"
 
 #: ../lib/dentry/fileops_error_dialog.c:126
 msgid "Apply this action to all files"
-msgstr ""
+msgstr "Zastosuj tą akcje dla wszystkich plików"
 
 #: ../lib/dentry/fileops_error_dialog.c:133
 msgid "_Skip"
@@ -530,7 +531,7 @@ msgstr ""
 
 #: ../lib/dentry/fileops_error_dialog.c:141
 msgid "Replace"
-msgstr ""
+msgstr "Zastąp"
 
 #: ../lib/dentry/fileops_error_dialog.c:218
 #, c-format
